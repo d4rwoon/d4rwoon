@@ -2,6 +2,7 @@
 
 Game developer who builds games solo in Godot and Unity.
 
+- 🎓 Graduate of Ege University (Game Development and Programming)
 - 🎓 Digital Game Design student at İstanbul Bilgi University
 - 🎮 Currently working on indie games with Godot 4.4
 - 💼 Former software developer intern at Yaşar Bilgi (Astron)
