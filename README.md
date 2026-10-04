@@ -9,7 +9,7 @@ Game developer who builds games solo in Godot and Unity.
 
 ## Projects
 
-- **[KickBack](https://github.com/d4rwoon/KickBack)**: a cyberpunk 2D platformer where you move using weapon recoil
+- **[KickBack](https://github.com/d4rwoon/KickBack)**: a cyberpunk 2D platformer where you move using weapon recoil. [Play it in your browser](https://darwoon.itch.io/kickback)
 
 ## Skills
 
@@ -19,4 +19,4 @@ Game developer who builds games solo in Godot and Unity.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/efe-bilgin-2b820541b/)
+[LinkedIn](https://www.linkedin.com/in/efe-bilgin-2b820541b/) | [itch.io](https://darwoon.itch.io)
