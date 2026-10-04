@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**d4rwoon/d4rwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game developer who builds games solo in Godot and Unity.
 
-Here are some ideas to get you started:
+- 🎓 Digital Game Design student at İstanbul Bilgi University
+- 🎮 Currently working on indie games with Godot 4.4
+- 💼 Former software developer intern at Yaşar Bilgi (Astron)
+- 🌱 Looking for internship and job opportunities in game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[KickBack](https://github.com/d4rwoon/KickBack)**: a cyberpunk 2D platformer where you move using weapon recoil
+
+## Skills
+
+**Engines:** Godot, Unity
+**Languages:** GDScript, C#, Java, Python
+**Tools:** Blender, Adobe After Effects, VS Code, Git / GitHub
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/efe-bilgin-2b820541b/)
